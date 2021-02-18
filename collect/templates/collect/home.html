@@ -1,0 +1,57 @@
+{% extends 'base.html' %}
+{% load humanize %}
+
+{% block content %}
+
+<form method="post">
+	{% csrf_token %}
+    <label for="name" "class="input-inline">Name:&nbsp;&nbsp;</label>
+    <input type="text" id="name" name="name" class="input-inline"><br><br>
+    <label for="age" class="input-inline">Age:&nbsp;&nbsp;</label>
+    <input type="text" id="age" name="age" class="input-inline"><br><br>
+
+    <label for="sex" class="input-inline">Sex: &nbsp;&nbsp;&nbsp;</label>
+    <input type="radio" id="male" name="sex" value="male" class="input-inline">
+    <label for="male" class="input-inline">Male &nbsp;&nbsp;&nbsp;</label>
+    <input type="radio" id="female" name="sex" value="female" class="input-inline">
+    <label for="female" class="input-inline">Female &nbsp;&nbsp;&nbsp;</label>
+    <input type="radio" id="other" name="sex" value="other" class="input-inline">
+    <label for="other" class="input-inline">Other &nbsp;&nbsp;&nbsp;</label> <br><br>
+
+    <label for="RBC_Count" class="input-inline">RBC_Count:&nbsp;&nbsp;</label>
+    <input type="text" id="RBC_Count" name="RBC_Count" class="input-inline"><br><br>
+    <label for="Platelets" class="input-inline">Platelets:&nbsp;&nbsp;</label>
+    <input type="text" id="Platelets" name="Platelets" class="input-inline"><br><br>
+    <label for="Neutrofils" class="input-inline">Neutrofils:&nbsp;&nbsp;</label>
+    <input type="text" id="Neutrofils" name="Neutrofils" class="input-inline"><br><br>
+    <label for="Basofils" class="input-inline">Basofils:&nbsp;&nbsp;</label>
+    <input type="text" id="Basofils" name="Basofils" class="input-inline"><br><br>
+
+    <label for="glucose" class="input-inline">Glucose:&nbsp;&nbsp;</label>
+    <input type="text" id="glucose" name="glucose" class="input-inline"><br><br>
+    <label for="bloodpressure" class="input-inline">BloodPressure:&nbsp;&nbsp;</label>
+    <input type="text" id="bloodpressure" name="bloodpressure" class="input-inline"><br><br>
+    <label for="skinthickness" class="input-inline">SkinThickness:&nbsp;&nbsp;</label>
+    <input type="text" id="skinthickness" name="skinthickness" class="input-inline"><br><br>
+    <label for="insulin" class="input-inline">Insulin:&nbsp;&nbsp;</label>
+    <input type="text" id="insulin" name="insulin" class="input-inline"><br><br>
+    <label for="bmi" class="input-inline">Bmi:&nbsp;&nbsp;</label>
+    <input type="text" id="bmi" name="bmi" class="input-inline"><br><br>
+
+    <label for="max_heart_rate" class="input-inline">Maximum Heart Rate:&nbsp;&nbsp;</label>
+    <input type="text" id="max_heart_rate" name="max_heart_rate" class="input-inline"><br><br>
+    <label for="marital_status" class="input-inline">Marital_status:&nbsp;&nbsp;</label>
+    <input type="radio" id="yes" name="marital_status" value="yes" class="input-inline">
+    <label for="yes" class="input-inline">Yes&nbsp;&nbsp;&nbsp;</label>
+    <input type="radio" id="no" name="marital_status" value="no" class="input-inline">
+    <label for="no" class="input-inline">No&nbsp;&nbsp;&nbsp;</label><br><br>
+    <label for="cholestrol" class="input-inline">Cholestrol:&nbsp;&nbsp;</label>
+    <input type="text" id="cholestrol" name="cholestrol" class="input-inline"><br><br>
+
+
+    <input id="submitButton" type="submit" value="Submit">
+
+
+</form>
+
+{% endblock %}
