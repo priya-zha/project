@@ -16,8 +16,12 @@ Including another URLconf
 from django.contrib import admin
 from django.conf import settings
 from django.urls import path, include
+from . import dash_app
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('', include('collect.urls')),
+    path('', include('utils.urls')),
+    path('collect/', include('collect.urls')),
+    path('django_plotly_dash/', include('django_plotly_dash.urls')),
+
 ]

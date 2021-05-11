@@ -1,9 +1,9 @@
 import sys
 import os
-import pandas as pd
+#import pandas as pd
 # os.environ[‘PYSPARK_SUBMIT_ARGS’] =  '--packages org.apache.spark:spark-streaming-kafka-0-8_2.11:2.0.2 pyspark-shell'
 # DOWNLOAD THE JAR FILES TO RUN IN AN OFFLINE MODE
-os.environ['PYSPARK_SUBMIT_ARGS'] = '--jars /home/priya/spark-streaming-kafka-0-8-assembly_2.11-2.4.5.jar pyspark-shell'
+os.environ['PYSPARK_SUBMIT_ARGS'] = '--jars /home/ubuntu/jar/spark-streaming-kafka-0-8-assembly_2.11-2.4.5.jar pyspark-shell'
 #Import dependencies
 from pyspark import SparkContext, SparkConf
 from pyspark.streaming import StreamingContext

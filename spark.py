@@ -1,11 +1,11 @@
 import sys
 import os
-import pandas as pd
-from cassandra.cluster import Cluster
-from cassandra.query import SimpleStatement, BatchStatement
+#import pandas as pd
+#from cassandra.cluster import Cluster
+#from cassandra.query import SimpleStatement, BatchStatement
 # os.environ[‘PYSPARK_SUBMIT_ARGS’] =  '--packages org.apache.spark:spark-streaming-kafka-0-8_2.11:2.0.2 pyspark-shell'
 # DOWNLOAD THE JAR FILES TO RUN IN AN OFFLINE MODE
-os.environ['PYSPARK_SUBMIT_ARGS'] = '--jars /home/priya/spark-streaming-kafka-0-8-assembly_2.11-2.4.5.jar pyspark-shell'
+os.environ['PYSPARK_SUBMIT_ARGS'] = '--jars /home/ubuntu/jar/spark-streaming-kafka-0-8-assembly_2.11-2.4.5.jar pyspark-shell'
 #Import dependencies
 from pyspark import SparkContext, SparkConf
 from pyspark.streaming import StreamingContext
@@ -30,7 +30,7 @@ ssc = StreamingContext(sc, 1)
 
 #Connect to Kafka
 kafka_stream = KafkaUtils.createStream(
-    ssc, "localhost:2181", "my-group", {"hospital": 1})
+    ssc, "localhost:2181", "my-group", {"diabetes": 1})
 raw = kafka_stream.flatMap(lambda kafkaS: [kafkaS])
 lines = raw.map(lambda xs: xs[1].split(","))
 

@@ -1,0 +1,60 @@
+{% extends 'base.html' %}
+{% load humanize %}
+
+{% block content %}
+
+<h4>Diseases</h4>
+<div class="row flex-edges">
+    <div class="card sm-3 col margin small">
+        <div class="card-body">
+            <h5 class="card-title">Diabetes</h5>
+            <p class="card-text">Diabetes Data Collection</p>
+            <a href="{% url 'collect:app1' %}" class="paper-btn">Go!</a>
+        </div>
+    </div>
+    <div class="card sm-3 col margin small">
+        <div class="card-body">
+            <h5 class="card-title">Diabetes</h5>
+            <p class="card-text">2D plot between Insulin and skinthickness</p>
+	    <a href="{% url 'collect:plot2' %}" class="paper-btn">Go!</a>
+        </div>
+    </div>
+</div>
+
+<div class="row flex-edges">
+    <div class="card sm-3 col margin small">
+        <div class="card-body">
+            <h5 class="card-title">Diabetes</h5>
+            <p class="card-text">3D graph between BMI BloodPressure and Glucose</p>
+            <a href="{% url 'collect:plot1' %}" class="paper-btn">Go!</a>
+        </div>
+    </div>
+    <div class="card sm-3 col margin small">
+        <div class="card-body">
+            <h5 class="card-title">Diabetes</h5>
+            <p class="card-text">2D plot between pregnancies and age!</p>
+	    <a href="{% url 'collect:plot3' %}" class="paper-btn">Go!</a>
+        </div>
+    </div>
+</div>
+
+<div class="row flex-edges">
+    <div class="card sm-3 col margin small">
+        <div class="card-body">
+            <h5 class="card-title">Diabetes</h5>
+            <p class="card-text">Real-Time Patient vizualization in Nepal</p>
+	    <a href="{% url 'collect:plot4' %}" class="paper-btn">Go!</a>
+        </div>
+    </div>
+    <div class="card sm-3 col margin small">
+        <div class="card-body">
+            <h5 class="card-title">Diabetes</h5>
+            <p class="card-text">Exploratory Data Analysis(EDA)</p>
+	    <a href="{% url 'collect:plotEDA' %}" class="paper-btn">Go!</a>
+        </div>
+    </div>
+
+</div>
+
+{% endblock %}
+

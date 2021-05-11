@@ -1896,3 +1896,2236 @@ console.warn: SearchSettings: "get: No settings file exists, new profile?" (new 
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
 1613568882376	Marionette	INFO	Listening on port 34233
 1613568882484	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613659911627	geckodriver	INFO	Listening on 127.0.0.1:56923
+1613659912632	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileuSOAuV"
+Error: no DISPLAY environment variable specified
+1613660029782	geckodriver	INFO	Listening on 127.0.0.1:48785
+1613660030786	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileoIeHp1"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libGL.so.1 missing
+[GFX1-]: glxtest: libEGL missing
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613660032924	Marionette	INFO	Listening on port 39775
+1613660033030	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613660033053	Marionette	ERROR	[15] No reply from Marionette:Register
+1613660235898	geckodriver	INFO	Listening on 127.0.0.1:60687
+1613660236903	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileRde0hm"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libGL.so.1 missing
+[GFX1-]: glxtest: libEGL missing
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613660239204	Marionette	INFO	Listening on port 38589
+1613660239236	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613660239250	Marionette	ERROR	[15] No reply from Marionette:Register
+1613660349059	geckodriver	INFO	Listening on 127.0.0.1:52795
+1613660350064	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileewtOsP"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libGL.so.1 missing
+[GFX1-]: glxtest: libEGL missing
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613660352126	Marionette	INFO	Listening on port 35267
+1613660352206	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613660352221	Marionette	ERROR	[15] No reply from Marionette:Register
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1613660767948	geckodriver	INFO	Listening on 127.0.0.1:47581
+1613660768953	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilei6nBTK"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libGL.so.1 missing
+[GFX1-]: glxtest: libEGL missing
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613660771073	Marionette	INFO	Listening on port 36139
+1613660771191	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613660771205	Marionette	ERROR	[15] No reply from Marionette:Register
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1613661175268	geckodriver	INFO	Listening on 127.0.0.1:49087
+1613661176272	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilelpXz5Y"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libGL.so.1 missing
+[GFX1-]: glxtest: libEGL missing
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613661178415	Marionette	INFO	Listening on port 39605
+1613661178510	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613661178525	Marionette	ERROR	[15] No reply from Marionette:Register
+1613661351759	geckodriver	INFO	Listening on 127.0.0.1:54223
+1613661352761	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile32Ro0f"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libGL.so.1 missing
+[GFX1-]: glxtest: libEGL missing
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613661355119	Marionette	INFO	Listening on port 32969
+1613661355194	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613661355208	Marionette	ERROR	[15] No reply from Marionette:Register
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1613725731104	geckodriver	INFO	Listening on 127.0.0.1:39639
+1613725732093	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilezH3r6q"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libGL.so.1 missing
+[GFX1-]: glxtest: libEGL missing
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613725735568	Marionette	INFO	Listening on port 32899
+1613725735632	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613725735649	Marionette	ERROR	[15] No reply from Marionette:Register
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1613727075897	geckodriver	INFO	Listening on 127.0.0.1:40955
+1613727076900	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile0j9msE"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libGL.so.1 missing
+[GFX1-]: glxtest: libEGL missing
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613727079310	Marionette	INFO	Listening on port 40431
+1613727079472	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613727079489	Marionette	ERROR	[15] No reply from Marionette:Register
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1613731449465	geckodriver	INFO	Listening on 127.0.0.1:52375
+1613731450451	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilemvqKHe"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libGL.so.1 missing
+[GFX1-]: glxtest: libEGL missing
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613731454392	Marionette	INFO	Listening on port 37831
+1613731454509	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613731454536	Marionette	ERROR	[18] No reply from Marionette:Register
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+1613732399825	geckodriver	INFO	Listening on 127.0.0.1:59549
+1613732400812	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilepSiR9M"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libGL.so.1 missing
+[GFX1-]: glxtest: libEGL missing
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613732403965	Marionette	INFO	Listening on port 33803
+1613732404061	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613732404083	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+1613815928029	geckodriver	INFO	Listening on 127.0.0.1:57385
+1613815929034	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileT03j9l"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libGL.so.1 missing
+[GFX1-]: glxtest: libEGL missing
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613815931022	Marionette	INFO	Listening on port 32797
+1613815931075	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613815931090	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+1613818448812	geckodriver	INFO	Listening on 127.0.0.1:53241
+1613818449797	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileP3J7fa"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libGL.so.1 missing
+[GFX1-]: glxtest: libEGL missing
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613818453365	Marionette	INFO	Listening on port 37207
+1613818453460	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613818453477	Marionette	ERROR	[18] No reply from Marionette:Register
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1613826150646	geckodriver	INFO	Listening on 127.0.0.1:50097
+1613826151631	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileNCzG54"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libGL.so.1 missing
+[GFX1-]: glxtest: libEGL missing
+1613826320918	geckodriver	INFO	Listening on 127.0.0.1:60963
+1613826321910	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileuYudiQ"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libGL.so.1 missing
+[GFX1-]: glxtest: libEGL missing
+1613826410614	geckodriver	INFO	Listening on 127.0.0.1:58941
+1613826411594	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiler60ItJ"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libGL.so.1 missing
+[GFX1-]: glxtest: libEGL missing
+1613826512152	geckodriver	INFO	Listening on 127.0.0.1:51351
+1613826513154	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileA2DrWL"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libGL.so.1 missing
+[GFX1-]: glxtest: libEGL missing
+1613899355725	geckodriver	INFO	Listening on 127.0.0.1:36845
+1613899356711	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile4LzUT4"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libGL.so.1 missing
+[GFX1-]: glxtest: libEGL missing
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613899360279	Marionette	INFO	Listening on port 37467
+1613899360350	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613899360364	Marionette	ERROR	[15] No reply from Marionette:Register
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1613902176214	geckodriver	INFO	Listening on 127.0.0.1:45465
+1613902177218	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileU9ezFk"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libGL.so.1 missing
+[GFX1-]: glxtest: libEGL missing
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613902179341	Marionette	INFO	Listening on port 42647
+1613902179461	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613902179474	Marionette	ERROR	[15] No reply from Marionette:Register
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1613903895661	Marionette	INFO	Stopped listening on port 42647
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1613910873016	geckodriver	INFO	Listening on 127.0.0.1:48851
+1613910874003	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilen6mOJ3"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libGL.so.1 missing
+[GFX1-]: glxtest: libEGL missing
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613910877478	Marionette	INFO	Listening on port 46791
+1613910877542	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613910877558	Marionette	ERROR	[18] No reply from Marionette:Register
+1613912004850	geckodriver	INFO	Listening on 127.0.0.1:52847
+1613912005854	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilek5kI3X"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libGL.so.1 missing
+[GFX1-]: glxtest: libEGL missing
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613912008824	Marionette	INFO	Listening on port 38385
+1613912008939	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613912009114	Marionette	ERROR	[18] No reply from Marionette:Register
+1613913409867	geckodriver	INFO	Listening on 127.0.0.1:37047
+1613913410853	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileRHfy5z"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libGL.so.1 missing
+[GFX1-]: glxtest: libEGL missing
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613913414281	Marionette	INFO	Listening on port 39641
+1613913414392	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613913414408	Marionette	ERROR	[18] No reply from Marionette:Register
+1613914387711	geckodriver	INFO	Listening on 127.0.0.1:41351
+1613914388688	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileDRTg8x"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libGL.so.1 missing
+[GFX1-]: glxtest: libEGL missing
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613914398150	Marionette	INFO	Listening on port 38751
+1613914398728	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613914398909	Marionette	ERROR	[18] No reply from Marionette:Register
+1613914528313	geckodriver	INFO	Listening on 127.0.0.1:55581
+1613914537237	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiletWefDp"
+*** You are running in headless mode.
+1613914829232	geckodriver	INFO	Listening on 127.0.0.1:47563
+1613914830217	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileCQY4xz"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libGL.so.1 missing
+[GFX1-]: glxtest: libEGL missing
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613914833755	Marionette	INFO	Listening on port 39109
+1613914833861	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613914833879	Marionette	ERROR	[18] No reply from Marionette:Register
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1613916935679	geckodriver	INFO	Listening on 127.0.0.1:35669
+1613916936677	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileueXDtn"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libGL.so.1 missing
+[GFX1-]: glxtest: libEGL missing
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613916939549	Marionette	INFO	Listening on port 38561
+1613916939624	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613916939647	Marionette	ERROR	[15] No reply from Marionette:Register
+1613917060180	geckodriver	INFO	Listening on 127.0.0.1:40811
+1613917061174	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilemsjTv6"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libGL.so.1 missing
+[GFX1-]: glxtest: libEGL missing
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613917085397	Marionette	INFO	Listening on port 41541
+1613917085571	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613917086197	Marionette	ERROR	[15] No reply from Marionette:Register
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1613918936189	geckodriver	INFO	Listening on 127.0.0.1:47733
+1613918937171	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilejMjCJl"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libGL.so.1 missing
+[GFX1-]: glxtest: libEGL missing
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613918940048	Marionette	INFO	Listening on port 34203
+1613918940113	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613918940129	Marionette	ERROR	[18] No reply from Marionette:Register
+1613918958729	geckodriver	INFO	Listening on 127.0.0.1:58673
+1613918959734	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileOM0VjV"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libGL.so.1 missing
+[GFX1-]: glxtest: libEGL missing
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613918961923	Marionette	INFO	Listening on port 46699
+1613918961976	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613918961992	Marionette	ERROR	[15] No reply from Marionette:Register
+1613918987951	geckodriver	INFO	Listening on 127.0.0.1:59917
+1613918988956	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileGoJDyG"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libGL.so.1 missing
+[GFX1-]: glxtest: libEGL missing
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613918991269	Marionette	INFO	Listening on port 45123
+1613918991307	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613918991324	Marionette	ERROR	[15] No reply from Marionette:Register
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0xAD0001,name=PVsync::Msg_Notify) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0xAD0001,name=PVsync::Msg_Notify) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0xAD0001,name=PVsync::Msg_Notify) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0xAD0001,name=PVsync::Msg_Notify) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0xAD0001,name=PVsync::Msg_Notify) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0xAD0001,name=PVsync::Msg_Notify) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0xAD0001,name=PVsync::Msg_Notify) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0xAD0001,name=PVsync::Msg_Notify) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0xAD0001,name=PVsync::Msg_Notify) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0xAD0001,name=PVsync::Msg_Notify) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0xAD0001,name=PVsync::Msg_Notify) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0xAD0001,name=PVsync::Msg_Notify) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0xAD0001,name=PVsync::Msg_Notify) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0xAD0001,name=PVsync::Msg_Notify) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0xAD0001,name=PVsync::Msg_Notify) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0xAD0001,name=PVsync::Msg_Notify) Channel error: cannot send/recv
+
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1613987955177	geckodriver	INFO	Listening on 127.0.0.1:37999
+1613987956159	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile4cwgov"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libGL.so.1 missing
+[GFX1-]: glxtest: libEGL missing
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613987959933	Marionette	INFO	Listening on port 43413
+1613987960009	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613987960030	Marionette	ERROR	[18] No reply from Marionette:Register
+1614000865646	geckodriver	INFO	Listening on 127.0.0.1:35205
+1614000866630	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileUdbUQY"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libGL.so.1 missing
+[GFX1-]: glxtest: libEGL missing
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614000870517	Marionette	INFO	Listening on port 36283
+1614000870584	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614000870611	Marionette	ERROR	[15] No reply from Marionette:Register
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1614001270299	geckodriver	INFO	Listening on 127.0.0.1:42691
+1614001271299	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileN1EOph"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libGL.so.1 missing
+[GFX1-]: glxtest: libEGL missing
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614001274510	Marionette	INFO	Listening on port 40921
+1614001274656	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614001274681	Marionette	ERROR	[18] No reply from Marionette:Register
+1614005121098	geckodriver	INFO	Listening on 127.0.0.1:44569
+1614005122087	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileJsz3UR"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libGL.so.1 missing
+[GFX1-]: glxtest: libEGL missing
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614005125972	Marionette	INFO	Listening on port 35551
+1614005126040	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614005126064	Marionette	ERROR	[15] No reply from Marionette:Register
+1614005513666	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 422))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 422))
+1614054106400	geckodriver	INFO	Listening on 127.0.0.1:60613
+1614054107387	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilecAURZr"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libGL.so.1 missing
+[GFX1-]: glxtest: libEGL missing
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614054111684	Marionette	INFO	Listening on port 45935
+1614054111751	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614054111776	Marionette	ERROR	[18] No reply from Marionette:Register
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1614056482220	geckodriver	INFO	Listening on 127.0.0.1:45229
+1614056483225	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilezLtx8A"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libGL.so.1 missing
+[GFX1-]: glxtest: libEGL missing
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614056485460	Marionette	INFO	Listening on port 33429
+1614056485561	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614056485582	Marionette	ERROR	[15] No reply from Marionette:Register
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1614060691643	geckodriver	INFO	Listening on 127.0.0.1:34625
+1614060692646	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilewPRatT"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libGL.so.1 missing
+[GFX1-]: glxtest: libEGL missing
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614060694952	Marionette	INFO	Listening on port 40365
+1614060694987	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614060695011	Marionette	ERROR	[15] No reply from Marionette:Register
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1614065125234	geckodriver	INFO	Listening on 127.0.0.1:59519
+1614065126208	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile5PRo89"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libGL.so.1 missing
+[GFX1-]: glxtest: libEGL missing
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614065130913	Marionette	INFO	Listening on port 44329
+1614065130963	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614065130986	Marionette	ERROR	[18] No reply from Marionette:Register
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1614066085943	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1614066114740	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1614066125177	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1614066159933	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1614066194957	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1614067339466	Marionette	INFO	Stopped listening on port 44329
+1614067417655	geckodriver	INFO	Listening on 127.0.0.1:55015
+1614067418660	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileQsqDKf"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libGL.so.1 missing
+[GFX1-]: glxtest: libEGL missing
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614067422062	Marionette	INFO	Listening on port 44611
+1614067422120	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614067422137	Marionette	ERROR	[18] No reply from Marionette:Register
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1614068194250	geckodriver	INFO	Listening on 127.0.0.1:49539
+1614068195239	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile13CKtx"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libGL.so.1 missing
+[GFX1-]: glxtest: libEGL missing
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614068198614	Marionette	INFO	Listening on port 39377
+1614068198690	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614068198711	Marionette	ERROR	[15] No reply from Marionette:Register
+1614071533089	geckodriver	INFO	Listening on 127.0.0.1:38583
+1614071534077	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiletyC350"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libGL.so.1 missing
+[GFX1-]: glxtest: libEGL missing
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614071537883	Marionette	INFO	Listening on port 41787
+1614071537939	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614071537955	Marionette	ERROR	[18] No reply from Marionette:Register
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1614073258377	Marionette	INFO	Stopped listening on port 41787
+1614074855744	geckodriver	INFO	Listening on 127.0.0.1:54823
+1614074856748	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile9agQmi"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libGL.so.1 missing
+[GFX1-]: glxtest: libEGL missing
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614074858968	Marionette	INFO	Listening on port 36589
+1614074859090	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614074859109	Marionette	ERROR	[18] No reply from Marionette:Register
+1614074890206	geckodriver	INFO	Listening on 127.0.0.1:44127
+1614074891211	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileQkRs8E"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libGL.so.1 missing
+[GFX1-]: glxtest: libEGL missing
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614074893439	Marionette	INFO	Listening on port 34711
+1614074893555	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614074893593	Marionette	ERROR	[15] No reply from Marionette:Register
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1614093479496	geckodriver	INFO	Listening on 127.0.0.1:56213
+1614093480502	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilew33Ejm"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libGL.so.1 missing
+[GFX1-]: glxtest: libEGL missing
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614093482806	Marionette	INFO	Listening on port 45953
+1614093482842	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614093482860	Marionette	ERROR	[15] No reply from Marionette:Register
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1614147081341	geckodriver	INFO	Listening on 127.0.0.1:44823
+1614147082346	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileRJ2gcJ"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libGL.so.1 missing
+[GFX1-]: glxtest: libEGL missing
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614147084528	Marionette	INFO	Listening on port 45907
+1614147084583	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614147084597	Marionette	ERROR	[15] No reply from Marionette:Register
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1614157502914	geckodriver	INFO	Listening on 127.0.0.1:42871
+1614157503916	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileR9pqwD"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libGL.so.1 missing
+[GFX1-]: glxtest: libEGL missing
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614157506091	Marionette	INFO	Listening on port 44979
+1614157506156	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614157506174	Marionette	ERROR	[15] No reply from Marionette:Register
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1614186469629	geckodriver	INFO	Listening on 127.0.0.1:48737
+1614186470634	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile5XHX1d"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libGL.so.1 missing
+[GFX1-]: glxtest: libEGL missing
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614186472804	Marionette	INFO	Listening on port 44089
+1614186472871	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614186472886	Marionette	ERROR	[15] No reply from Marionette:Register
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1614230903030	geckodriver	INFO	Listening on 127.0.0.1:48287
+1614230904036	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile35f4tF"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libGL.so.1 missing
+[GFX1-]: glxtest: libEGL missing
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614230906234	Marionette	INFO	Listening on port 34631
+1614230906276	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614230906293	Marionette	ERROR	[15] No reply from Marionette:Register
+1614231020793	geckodriver	INFO	Listening on 127.0.0.1:43819
+1614231021798	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilenoKT8N"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libGL.so.1 missing
+[GFX1-]: glxtest: libEGL missing
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614231024074	Marionette	INFO	Listening on port 35023
+1614231024131	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614231024152	Marionette	ERROR	[15] No reply from Marionette:Register
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+1614231050457	geckodriver	INFO	Listening on 127.0.0.1:52261
+1614231051462	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilescvaNW"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libGL.so.1 missing
+[GFX1-]: glxtest: libEGL missing
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614231053715	Marionette	INFO	Listening on port 35857
+1614231053797	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614231053812	Marionette	ERROR	[18] No reply from Marionette:Register
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1614317724597	geckodriver	INFO	Listening on 127.0.0.1:36565
+1614317725603	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileyDxImP"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libGL.so.1 missing
+[GFX1-]: glxtest: libEGL missing
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614317727880	Marionette	INFO	Listening on port 43785
+1614317727940	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614317727958	Marionette	ERROR	[15] No reply from Marionette:Register
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1614319455582	Marionette	INFO	Stopped listening on port 43785
+1614320139964	geckodriver	INFO	Listening on 127.0.0.1:41669
+1614320140970	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileqrYHGV"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libGL.so.1 missing
+[GFX1-]: glxtest: libEGL missing
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614320143269	Marionette	INFO	Listening on port 37073
+1614320143309	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614320143332	Marionette	ERROR	[15] No reply from Marionette:Register
+1614320350357	geckodriver	INFO	Listening on 127.0.0.1:50289
+1614320351362	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilel79gvo"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libGL.so.1 missing
+[GFX1-]: glxtest: libEGL missing
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614320353647	Marionette	INFO	Listening on port 37617
+1614320353702	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614320353715	Marionette	ERROR	[15] No reply from Marionette:Register
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1614323301202	geckodriver	INFO	Listening on 127.0.0.1:43381
+1614323302208	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileRjNEqT"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libGL.so.1 missing
+[GFX1-]: glxtest: libEGL missing
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614323304289	Marionette	INFO	Listening on port 38287
+1614323304342	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614323304361	Marionette	ERROR	[15] No reply from Marionette:Register
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1614323708803	geckodriver	INFO	Listening on 127.0.0.1:60363
+1614323709808	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileArBTJc"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libGL.so.1 missing
+[GFX1-]: glxtest: libEGL missing
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614323712035	Marionette	INFO	Listening on port 41383
+1614323712143	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614323712164	Marionette	ERROR	[18] No reply from Marionette:Register
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1614325436682	Marionette	INFO	Stopped listening on port 41383
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1614326897868	geckodriver	INFO	Listening on 127.0.0.1:39383
+1614326898872	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileZ8YZWm"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libGL.so.1 missing
+[GFX1-]: glxtest: libEGL missing
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614326901080	Marionette	INFO	Listening on port 45753
+1614326901209	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614326901223	Marionette	ERROR	[15] No reply from Marionette:Register
+1614327079136	geckodriver	INFO	Listening on 127.0.0.1:53953
+1614327080139	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileqHaQ4g"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libGL.so.1 missing
+[GFX1-]: glxtest: libEGL missing
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614327082593	Marionette	INFO	Listening on port 43707
+1614327082686	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614327082706	Marionette	ERROR	[15] No reply from Marionette:Register
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1614328805744	Marionette	INFO	Stopped listening on port 43707
+1614330172756	geckodriver	INFO	Listening on 127.0.0.1:51485
+1614330173740	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileWDlO2v"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libGL.so.1 missing
+[GFX1-]: glxtest: libEGL missing
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614330177393	Marionette	INFO	Listening on port 37707
+1614330177482	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614330177506	Marionette	ERROR	[18] No reply from Marionette:Register
+1614330216457	geckodriver	INFO	Listening on 127.0.0.1:47169
+1614330217461	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileAPeJWn"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libGL.so.1 missing
+[GFX1-]: glxtest: libEGL missing
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614330219944	Marionette	INFO	Listening on port 46741
+1614330219998	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614330220024	Marionette	ERROR	[15] No reply from Marionette:Register
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1614332647664	geckodriver	INFO	Listening on 127.0.0.1:35227
+1614332648655	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilekNZMWv"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libGL.so.1 missing
+[GFX1-]: glxtest: libEGL missing
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614332650886	Marionette	INFO	Listening on port 39007
+1614332650991	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614332651008	Marionette	ERROR	[18] No reply from Marionette:Register
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1614333445368	geckodriver	INFO	Listening on 127.0.0.1:39869
+1614333446372	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile5tG03Y"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libGL.so.1 missing
+[GFX1-]: glxtest: libEGL missing
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614333448647	Marionette	INFO	Listening on port 44589
+1614333448706	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614333448721	Marionette	ERROR	[15] No reply from Marionette:Register
+1614333507194	geckodriver	INFO	Listening on 127.0.0.1:50513
+1614333508199	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileE3ISK4"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libGL.so.1 missing
+[GFX1-]: glxtest: libEGL missing
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614333510552	Marionette	INFO	Listening on port 41009
+1614333510640	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614333510657	Marionette	ERROR	[15] No reply from Marionette:Register
+1614333726244	geckodriver	INFO	Listening on 127.0.0.1:44909
+1614333727232	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileqFieQ5"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libGL.so.1 missing
+[GFX1-]: glxtest: libEGL missing
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614333732394	Marionette	INFO	Listening on port 39697
+1614333732513	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614333732555	Marionette	ERROR	[15] No reply from Marionette:Register
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1614336332564	geckodriver	INFO	Listening on 127.0.0.1:57859
+1614336333548	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilegPTuYb"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libGL.so.1 missing
+[GFX1-]: glxtest: libEGL missing
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614336336752	Marionette	INFO	Listening on port 32815
+1614336336786	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614336336804	Marionette	ERROR	[18] No reply from Marionette:Register
+1614336547406	geckodriver	INFO	Listening on 127.0.0.1:57531
+1614336548411	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile1UYyuC"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libGL.so.1 missing
+[GFX1-]: glxtest: libEGL missing
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614336550239	Marionette	INFO	Listening on port 37823
+1614336550342	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614336550356	Marionette	ERROR	[15] No reply from Marionette:Register
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1614337739872	geckodriver	INFO	Listening on 127.0.0.1:58231
+1614337740876	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilenjcvsd"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libGL.so.1 missing
+[GFX1-]: glxtest: libEGL missing
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614337742707	Marionette	INFO	Listening on port 38799
+1614337742807	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614337742820	Marionette	ERROR	[15] No reply from Marionette:Register
+1614337917892	geckodriver	INFO	Listening on 127.0.0.1:43205
+1614337918896	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileXH4wuJ"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libGL.so.1 missing
+[GFX1-]: glxtest: libEGL missing
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614337920708	Marionette	INFO	Listening on port 35469
+1614337920825	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614337920838	Marionette	ERROR	[15] No reply from Marionette:Register
+1614343148697	geckodriver	INFO	Listening on 127.0.0.1:50935
+1614343149701	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilexGmjvy"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libGL.so.1 missing
+[GFX1-]: glxtest: libEGL missing
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614343151513	Marionette	INFO	Listening on port 33859
+1614343151631	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614343151643	Marionette	ERROR	[15] No reply from Marionette:Register
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1614344701342	geckodriver	INFO	Listening on 127.0.0.1:58437
+1614344702347	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileMd8ShT"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libGL.so.1 missing
+[GFX1-]: glxtest: libEGL missing
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614344704178	Marionette	INFO	Listening on port 36215
+1614344704276	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614344704289	Marionette	ERROR	[15] No reply from Marionette:Register
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1614346039499	geckodriver	INFO	Listening on 127.0.0.1:46501
+1614346040504	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilenZdiQS"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libGL.so.1 missing
+[GFX1-]: glxtest: libEGL missing
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614346042447	Marionette	INFO	Listening on port 38391
+1614346042535	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614346042550	Marionette	ERROR	[15] No reply from Marionette:Register
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1614352648695	geckodriver	INFO	Listening on 127.0.0.1:60623
+1614352649699	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilePnvBrp"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libGL.so.1 missing
+[GFX1-]: glxtest: libEGL missing
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614352651528	Marionette	INFO	Listening on port 38687
+1614352651629	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614352651641	Marionette	ERROR	[15] No reply from Marionette:Register
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1614354356018	Marionette	INFO	Stopped listening on port 38687
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1614354947735	geckodriver	INFO	Listening on 127.0.0.1:39739
+1614354948739	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile78BFTe"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libGL.so.1 missing
+[GFX1-]: glxtest: libEGL missing
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614354950682	Marionette	INFO	Listening on port 36859
+1614354950774	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614354950801	Marionette	ERROR	[15] No reply from Marionette:Register
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1614356654363	Marionette	INFO	Stopped listening on port 36859
+1614357900132	geckodriver	INFO	Listening on 127.0.0.1:54197
+1614357901136	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilejldxnX"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libGL.so.1 missing
+[GFX1-]: glxtest: libEGL missing
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614357902990	Marionette	INFO	Listening on port 36839
+1614357903067	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614357903083	Marionette	ERROR	[15] No reply from Marionette:Register
+1614360454174	geckodriver	INFO	Listening on 127.0.0.1:49231
+1614360455179	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilegqh7wJ"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libGL.so.1 missing
+[GFX1-]: glxtest: libEGL missing
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614360457035	Marionette	INFO	Listening on port 36551
+1614360457108	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614360457122	Marionette	ERROR	[15] No reply from Marionette:Register
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1614413193573	geckodriver	INFO	Listening on 127.0.0.1:40747
+1614413194578	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileQRNC0L"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libGL.so.1 missing
+[GFX1-]: glxtest: libEGL missing
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614413196446	Marionette	INFO	Listening on port 40431
+1614413196508	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614413196522	Marionette	ERROR	[15] No reply from Marionette:Register
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1614413763600	geckodriver	INFO	Listening on 127.0.0.1:34209
+1614413764605	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileqZfIXR"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libGL.so.1 missing
+[GFX1-]: glxtest: libEGL missing
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614413766386	Marionette	INFO	Listening on port 44449
+1614413766435	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614413766448	Marionette	ERROR	[15] No reply from Marionette:Register
+1614413941239	geckodriver	INFO	Listening on 127.0.0.1:32857
+1614413942243	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileVH28xg"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libGL.so.1 missing
+[GFX1-]: glxtest: libEGL missing
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614413944078	Marionette	INFO	Listening on port 37139
+1614413944177	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614413944190	Marionette	ERROR	[15] No reply from Marionette:Register
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1614421506629	geckodriver	INFO	Listening on 127.0.0.1:46545
+1614421507634	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileTDDda7"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libGL.so.1 missing
+[GFX1-]: glxtest: libEGL missing
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614421509483	Marionette	INFO	Listening on port 34779
+1614421509570	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614421509583	Marionette	ERROR	[15] No reply from Marionette:Register
+1614421572193	geckodriver	INFO	Listening on 127.0.0.1:36701
+1614421573198	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileqZanrA"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libGL.so.1 missing
+[GFX1-]: glxtest: libEGL missing
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614421575010	Marionette	INFO	Listening on port 33255
+1614421575127	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614421575140	Marionette	ERROR	[15] No reply from Marionette:Register
+1614421638351	geckodriver	INFO	Listening on 127.0.0.1:55409
+1614421639356	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile7RCszP"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libGL.so.1 missing
+[GFX1-]: glxtest: libEGL missing
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614421641164	Marionette	INFO	Listening on port 40993
+1614421641288	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614421641302	Marionette	ERROR	[15] No reply from Marionette:Register
+1614421803824	geckodriver	INFO	Listening on 127.0.0.1:56367
+1614421804829	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileksbqGg"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libGL.so.1 missing
+[GFX1-]: glxtest: libEGL missing
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614421806781	Marionette	INFO	Listening on port 38323
+1614421806859	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614421806875	Marionette	ERROR	[15] No reply from Marionette:Register
+1614421883875	geckodriver	INFO	Listening on 127.0.0.1:54775
+1614421884880	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileueGefB"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libGL.so.1 missing
+[GFX1-]: glxtest: libEGL missing
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614421886722	Marionette	INFO	Listening on port 34795
+1614421886810	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614421886826	Marionette	ERROR	[15] No reply from Marionette:Register
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1614422045786	geckodriver	INFO	Listening on 127.0.0.1:33299
+1614422046790	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileEKVQjc"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libGL.so.1 missing
+[GFX1-]: glxtest: libEGL missing
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614422048618	Marionette	INFO	Listening on port 43973
+1614422048719	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614422048733	Marionette	ERROR	[15] No reply from Marionette:Register
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1614423607391	Marionette	INFO	Stopped listening on port 43973
+1614424112057	geckodriver	INFO	Listening on 127.0.0.1:53083
+1614424113062	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilenlDymu"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libGL.so.1 missing
+[GFX1-]: glxtest: libEGL missing
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614424114854	Marionette	INFO	Listening on port 36559
+1614424114899	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614424114915	Marionette	ERROR	[15] No reply from Marionette:Register
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1614425673802	Marionette	INFO	Stopped listening on port 36559
+1614425796706	geckodriver	INFO	Listening on 127.0.0.1:33449
+1614425797710	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilex8Mco0"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libGL.so.1 missing
+[GFX1-]: glxtest: libEGL missing
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614425799528	Marionette	INFO	Listening on port 40739
+1614425799640	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614425799656	Marionette	ERROR	[15] No reply from Marionette:Register
+1614425918159	geckodriver	INFO	Listening on 127.0.0.1:45985
+1614425919164	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileEHlH6u"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libGL.so.1 missing
+[GFX1-]: glxtest: libEGL missing
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614425920953	Marionette	INFO	Listening on port 43335
+1614425920994	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614425921009	Marionette	ERROR	[15] No reply from Marionette:Register
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1614428147015	geckodriver	INFO	Listening on 127.0.0.1:34907
+1614428148020	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilelBx3Mk"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libGL.so.1 missing
+[GFX1-]: glxtest: libEGL missing
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614428150002	Marionette	INFO	Listening on port 36503
+1614428150055	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614428150073	Marionette	ERROR	[15] No reply from Marionette:Register
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1614429709841	Marionette	INFO	Stopped listening on port 36503
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1614431138474	geckodriver	INFO	Listening on 127.0.0.1:57787
+1614431139479	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileYER0Rq"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libGL.so.1 missing
+[GFX1-]: glxtest: libEGL missing
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614431141509	Marionette	INFO	Listening on port 41409
+1614431141608	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614431141622	Marionette	ERROR	[15] No reply from Marionette:Register
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1614432953892	geckodriver	INFO	Listening on 127.0.0.1:42087
+1614432954897	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileT0NJd7"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libGL.so.1 missing
+[GFX1-]: glxtest: libEGL missing
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614432956888	Marionette	INFO	Listening on port 35173
+1614432956931	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614432956949	Marionette	ERROR	[15] No reply from Marionette:Register
+1614432969743	geckodriver	INFO	Listening on 127.0.0.1:57113
+1614432970748	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileLYdgOa"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libGL.so.1 missing
+[GFX1-]: glxtest: libEGL missing
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614432972792	Marionette	INFO	Listening on port 35463
+1614432972878	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614432972893	Marionette	ERROR	[15] No reply from Marionette:Register
+1614433103302	geckodriver	INFO	Listening on 127.0.0.1:45741
+1614433104307	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilebhQAUo"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libGL.so.1 missing
+[GFX1-]: glxtest: libEGL missing
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614433106290	Marionette	INFO	Listening on port 43859
+1614433106338	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614433106354	Marionette	ERROR	[15] No reply from Marionette:Register
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1614433712347	geckodriver	INFO	Listening on 127.0.0.1:34369
+1614433713352	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileXHf7XC"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libGL.so.1 missing
+[GFX1-]: glxtest: libEGL missing
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614433715374	Marionette	INFO	Listening on port 41133
+1614433715487	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614433715502	Marionette	ERROR	[15] No reply from Marionette:Register
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1614435277749	Marionette	INFO	Stopped listening on port 41133
+1614489718979	geckodriver	INFO	Listening on 127.0.0.1:38029
+1614489719983	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilemKTLZX"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libGL.so.1 missing
+[GFX1-]: glxtest: libEGL missing
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614489721788	Marionette	INFO	Listening on port 38737
+1614489721911	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614489721924	Marionette	ERROR	[15] No reply from Marionette:Register
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1614499359535	geckodriver	INFO	Listening on 127.0.0.1:47149
+1614499360540	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile6wvbgZ"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libGL.so.1 missing
+[GFX1-]: glxtest: libEGL missing
+
+(/usr/lib/firefox/firefox:3017): GLib-GObject-CRITICAL **: 08:02:41.313: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:3039): GLib-GObject-CRITICAL **: 08:02:41.386: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614499362416	Marionette	INFO	Listening on port 45059
+
+(/usr/lib/firefox/firefox:3103): GLib-GObject-CRITICAL **: 08:02:42.449: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1614499362469	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1614502402347	geckodriver	INFO	Listening on 127.0.0.1:55671
+1614502403351	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile86toXd"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libGL.so.1 missing
+[GFX1-]: glxtest: libEGL missing
+
+(/usr/lib/firefox/firefox:23914): GLib-GObject-CRITICAL **: 08:53:24.165: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:23933): GLib-GObject-CRITICAL **: 08:53:24.239: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614502405337	Marionette	INFO	Listening on port 35401
+
+(/usr/lib/firefox/firefox:24000): GLib-GObject-CRITICAL **: 08:53:25.369: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1614502405382	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614507777127	geckodriver	INFO	Listening on 127.0.0.1:43423
+1614507778132	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileaGCdEo"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libGL.so.1 missing
+[GFX1-]: glxtest: libEGL missing
+
+(/usr/lib/firefox/firefox:19311): GLib-GObject-CRITICAL **: 10:22:58.914: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:19333): GLib-GObject-CRITICAL **: 10:22:58.999: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614507779975	Marionette	INFO	Listening on port 34773
+
+(/usr/lib/firefox/firefox:19398): GLib-GObject-CRITICAL **: 10:23:00.015: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1614507780061	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1614509319970	geckodriver	INFO	Listening on 127.0.0.1:47657
+1614509320975	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileTK4VnU"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libGL.so.1 missing
+[GFX1-]: glxtest: libEGL missing
+
+(/usr/lib/firefox/firefox:29975): GLib-GObject-CRITICAL **: 10:48:41.759: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:29997): GLib-GObject-CRITICAL **: 10:48:41.841: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614509322840	Marionette	INFO	Listening on port 39329
+
+(/usr/lib/firefox/firefox:30062): GLib-GObject-CRITICAL **: 10:48:42.880: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1614509322905	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614575768955	geckodriver	INFO	Listening on 127.0.0.1:46725
+1614575769960	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileLrcpmY"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libGL.so.1 missing
+[GFX1-]: glxtest: libEGL missing
+
+(/usr/lib/firefox/firefox:6405): GLib-GObject-CRITICAL **: 05:16:10.757: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:6428): GLib-GObject-CRITICAL **: 05:16:10.841: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614575771806	Marionette	INFO	Listening on port 37863
+
+(/usr/lib/firefox/firefox:6493): GLib-GObject-CRITICAL **: 05:16:11.843: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1614575771889	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614577327830	Marionette	INFO	Stopped listening on port 37863
+1614577850168	geckodriver	INFO	Listening on 127.0.0.1:54009
+1614577851172	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileMdpUNJ"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libGL.so.1 missing
+[GFX1-]: glxtest: libEGL missing
+
+(/usr/lib/firefox/firefox:15567): GLib-GObject-CRITICAL **: 05:50:52.069: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:15596): GLib-GObject-CRITICAL **: 05:50:52.176: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614577853530	Marionette	INFO	Listening on port 32991
+
+(/usr/lib/firefox/firefox:15702): GLib-GObject-CRITICAL **: 05:50:53.579: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1614577853610	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614579410633	Marionette	INFO	Stopped listening on port 32991
+1614581194155	geckodriver	INFO	Listening on 127.0.0.1:51477
+1614581195160	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiley1mWXS"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libGL.so.1 missing
+[GFX1-]: glxtest: libEGL missing
+
+(/usr/lib/firefox/firefox:4112): GLib-GObject-CRITICAL **: 06:46:35.977: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:4131): GLib-GObject-CRITICAL **: 06:46:36.048: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614581197008	Marionette	INFO	Listening on port 43651
+
+(/usr/lib/firefox/firefox:4412): GLib-GObject-CRITICAL **: 06:46:37.064: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1614581197091	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614582754935	Marionette	INFO	Stopped listening on port 43651
+1614586376930	geckodriver	INFO	Listening on 127.0.0.1:46307
+1614586377935	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileGfrlFW"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libGL.so.1 missing
+[GFX1-]: glxtest: libEGL missing
+
+(/usr/lib/firefox/firefox:29952): GLib-GObject-CRITICAL **: 08:12:58.714: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:29973): GLib-GObject-CRITICAL **: 08:12:58.786: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614586379819	Marionette	INFO	Listening on port 38081
+
+(/usr/lib/firefox/firefox:30037): GLib-GObject-CRITICAL **: 08:12:59.830: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1614586379863	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614586453389	geckodriver	INFO	Listening on 127.0.0.1:37061
+1614586454394	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileXpwOsm"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libGL.so.1 missing
+[GFX1-]: glxtest: libEGL missing
+
+(/usr/lib/firefox/firefox:30572): GLib-GObject-CRITICAL **: 08:14:15.117: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:30594): GLib-GObject-CRITICAL **: 08:14:15.212: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614586456199	Marionette	INFO	Listening on port 42909
+
+(/usr/lib/firefox/firefox:30656): GLib-GObject-CRITICAL **: 08:14:16.237: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1614586456325	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614586489386	geckodriver	INFO	Listening on 127.0.0.1:55483
+1614586490390	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileQyd7ZL"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libGL.so.1 missing
+[GFX1-]: glxtest: libEGL missing
+
+(/usr/lib/firefox/firefox:30907): GLib-GObject-CRITICAL **: 08:14:51.187: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:30927): GLib-GObject-CRITICAL **: 08:14:51.259: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614586492309	Marionette	INFO	Listening on port 33645
+
+(/usr/lib/firefox/firefox:30991): GLib-GObject-CRITICAL **: 08:14:52.332: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1614586492419	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614587312819	geckodriver	INFO	Listening on 127.0.0.1:47965
+1614587313821	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileDOrNj2"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libGL.so.1 missing
+[GFX1-]: glxtest: libEGL missing
+
+(/usr/lib/firefox/firefox:7612): GLib-GObject-CRITICAL **: 08:28:34.703: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:7634): GLib-GObject-CRITICAL **: 08:28:34.781: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614587315750	Marionette	INFO	Listening on port 44521
+
+(/usr/lib/firefox/firefox:7707): GLib-GObject-CRITICAL **: 08:28:35.789: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1614587315850	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614588878643	Marionette	INFO	Stopped listening on port 44521
+1614589627453	geckodriver	INFO	Listening on 127.0.0.1:43003
+1614589628458	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile5AArVu"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libGL.so.1 missing
+[GFX1-]: glxtest: libEGL missing
+
+(/usr/lib/firefox/firefox:27723): GLib-GObject-CRITICAL **: 09:07:09.252: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:27745): GLib-GObject-CRITICAL **: 09:07:09.336: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614589630385	Marionette	INFO	Listening on port 33381
+
+(/usr/lib/firefox/firefox:27806): GLib-GObject-CRITICAL **: 09:07:10.431: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1614589630488	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614591201937	Marionette	INFO	Stopped listening on port 33381
+1614591222490	geckodriver	INFO	Listening on 127.0.0.1:51477
+1614591223495	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileXoCTJO"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libGL.so.1 missing
+[GFX1-]: glxtest: libEGL missing
+
+(/usr/lib/firefox/firefox:19763): GLib-GObject-CRITICAL **: 09:33:44.335: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:19785): GLib-GObject-CRITICAL **: 09:33:44.433: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614591225530	Marionette	INFO	Listening on port 41325
+
+(/usr/lib/firefox/firefox:19856): GLib-GObject-CRITICAL **: 09:33:45.559: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1614591225628	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614592789073	Marionette	INFO	Stopped listening on port 41325
+1614603255356	geckodriver	INFO	Listening on 127.0.0.1:37425
+1614603256360	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileQtLzFF"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libGL.so.1 missing
+[GFX1-]: glxtest: libEGL missing
+
+(/usr/lib/firefox/firefox:7740): GLib-GObject-CRITICAL **: 12:54:17.157: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:7764): GLib-GObject-CRITICAL **: 12:54:17.239: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614603258308	Marionette	INFO	Listening on port 45297
+
+(/usr/lib/firefox/firefox:8071): GLib-GObject-CRITICAL **: 12:54:18.330: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1614603258397	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614604820261	Marionette	INFO	Stopped listening on port 45297
+1614607182048	geckodriver	INFO	Listening on 127.0.0.1:47039
+1614607183053	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile6PUx5Z"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libGL.so.1 missing
+[GFX1-]: glxtest: libEGL missing
+
+(/usr/lib/firefox/firefox:29058): GLib-GObject-CRITICAL **: 13:59:43.849: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:29080): GLib-GObject-CRITICAL **: 13:59:43.936: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614607185045	Marionette	INFO	Listening on port 33423
+
+(/usr/lib/firefox/firefox:29142): GLib-GObject-CRITICAL **: 13:59:45.077: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1614607185083	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614610512144	geckodriver	INFO	Listening on 127.0.0.1:52873
+1614610513149	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileG0ztiv"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libGL.so.1 missing
+[GFX1-]: glxtest: libEGL missing
+
+(/usr/lib/firefox/firefox:13545): GLib-GObject-CRITICAL **: 14:55:13.898: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:13567): GLib-GObject-CRITICAL **: 14:55:13.999: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614610515093	Marionette	INFO	Listening on port 41363
+
+(/usr/lib/firefox/firefox:13630): GLib-GObject-CRITICAL **: 14:55:15.100: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1614610515180	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614610569837	geckodriver	INFO	Listening on 127.0.0.1:48559
+1614610570842	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileXMgVNj"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libGL.so.1 missing
+[GFX1-]: glxtest: libEGL missing
+
+(/usr/lib/firefox/firefox:14346): GLib-GObject-CRITICAL **: 14:56:11.656: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:14369): GLib-GObject-CRITICAL **: 14:56:11.741: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614610572855	Marionette	INFO	Listening on port 43559
+
+(/usr/lib/firefox/firefox:14434): GLib-GObject-CRITICAL **: 14:56:12.880: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1614610572975	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614610585033	geckodriver	INFO	Listening on 127.0.0.1:46991
+1614610586038	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileYLCQjY"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libGL.so.1 missing
+[GFX1-]: glxtest: libEGL missing
+
+(/usr/lib/firefox/firefox:14580): GLib-GObject-CRITICAL **: 14:56:26.844: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:14602): GLib-GObject-CRITICAL **: 14:56:26.929: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614610588078	Marionette	INFO	Listening on port 33583
+
+(/usr/lib/firefox/firefox:14664): GLib-GObject-CRITICAL **: 14:56:28.110: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1614610588172	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614611149445	geckodriver	INFO	Listening on 127.0.0.1:50971
+1614611150449	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile0UHa4B"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libGL.so.1 missing
+[GFX1-]: glxtest: libEGL missing
+
+(/usr/lib/firefox/firefox:19347): GLib-GObject-CRITICAL **: 15:05:51.272: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:19369): GLib-GObject-CRITICAL **: 15:05:51.353: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614611152428	Marionette	INFO	Listening on port 40333
+
+(/usr/lib/firefox/firefox:19433): GLib-GObject-CRITICAL **: 15:05:52.466: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1614611152481	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614612718868	Marionette	INFO	Stopped listening on port 40333
+1614612773569	geckodriver	INFO	Listening on 127.0.0.1:36373
+1614612774574	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileHNQoP1"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libGL.so.1 missing
+[GFX1-]: glxtest: libEGL missing
+
+(/usr/lib/firefox/firefox:31307): GLib-GObject-CRITICAL **: 15:32:55.428: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:31327): GLib-GObject-CRITICAL **: 15:32:55.529: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614612776547	Marionette	INFO	Listening on port 42191
+
+(/usr/lib/firefox/firefox:31498): GLib-GObject-CRITICAL **: 15:32:56.582: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1614612776605	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614614348237	Marionette	INFO	Stopped listening on port 42191
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1614614369522	geckodriver	INFO	Listening on 127.0.0.1:37385
+1614614370526	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileI4iRzc"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libGL.so.1 missing
+[GFX1-]: glxtest: libEGL missing
+
+(/usr/lib/firefox/firefox:11697): GLib-GObject-CRITICAL **: 15:59:31.350: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:11719): GLib-GObject-CRITICAL **: 15:59:31.434: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614614372652	Marionette	INFO	Listening on port 40253
+
+(/usr/lib/firefox/firefox:11944): GLib-GObject-CRITICAL **: 15:59:32.677: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1614614372755	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614681311500	geckodriver	INFO	Listening on 127.0.0.1:58213
+1614681312502	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileV1hsPq"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libGL.so.1 missing
+[GFX1-]: glxtest: libEGL missing
+
+(/usr/lib/firefox/firefox:3877): GLib-GObject-CRITICAL **: 10:35:13.426: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:3899): GLib-GObject-CRITICAL **: 10:35:13.521: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614681314641	Marionette	INFO	Listening on port 44905
+
+(/usr/lib/firefox/firefox:3963): GLib-GObject-CRITICAL **: 10:35:14.673: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1614681314734	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1614681897424	geckodriver	INFO	Listening on 127.0.0.1:38747
+1614681898429	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileanejz5"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libGL.so.1 missing
+[GFX1-]: glxtest: libEGL missing
+
+(/usr/lib/firefox/firefox:8017): GLib-GObject-CRITICAL **: 10:44:59.209: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:8039): GLib-GObject-CRITICAL **: 10:44:59.297: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614681900285	Marionette	INFO	Listening on port 32915
+
+(/usr/lib/firefox/firefox:8121): GLib-GObject-CRITICAL **: 10:45:00.321: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1614681900358	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614683469380	Marionette	INFO	Stopped listening on port 32915
+1614685505228	geckodriver	INFO	Listening on 127.0.0.1:38675
+1614685506233	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileOoyUe1"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libGL.so.1 missing
+[GFX1-]: glxtest: libEGL missing
+
+(/usr/lib/firefox/firefox:31611): GLib-GObject-CRITICAL **: 11:45:07.057: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:31631): GLib-GObject-CRITICAL **: 11:45:07.125: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614685508101	Marionette	INFO	Listening on port 34437
+
+(/usr/lib/firefox/firefox:31699): GLib-GObject-CRITICAL **: 11:45:08.143: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1614685508167	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614757304180	geckodriver	INFO	Listening on 127.0.0.1:46223
+1614757305184	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileZ2DTUt"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libGL.so.1 missing
+[GFX1-]: glxtest: libEGL missing
+
+(/usr/lib/firefox/firefox:7364): GLib-GObject-CRITICAL **: 07:41:46.081: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:7384): GLib-GObject-CRITICAL **: 07:41:46.186: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:7464): GLib-GObject-CRITICAL **: 07:41:47.461: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1614757307504	Marionette	INFO	Listening on port 46263
+1614757307641	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1614758688492	geckodriver	INFO	Listening on 127.0.0.1:60839
+1614758689497	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilem3ejhn"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libGL.so.1 missing
+[GFX1-]: glxtest: libEGL missing
+
+(/usr/lib/firefox/firefox:17879): GLib-GObject-CRITICAL **: 08:04:50.301: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:17898): GLib-GObject-CRITICAL **: 08:04:50.380: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614758691476	Marionette	INFO	Listening on port 42425
+
+(/usr/lib/firefox/firefox:17967): GLib-GObject-CRITICAL **: 08:04:51.499: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1614758691530	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1614759934363	geckodriver	INFO	Listening on 127.0.0.1:39225
+1614759935367	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileY1GTQW"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libGL.so.1 missing
+[GFX1-]: glxtest: libEGL missing
+
+(/usr/lib/firefox/firefox:24544): GLib-GObject-CRITICAL **: 08:25:36.163: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:24566): GLib-GObject-CRITICAL **: 08:25:36.247: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614759937298	Marionette	INFO	Listening on port 34025
+
+(/usr/lib/firefox/firefox:24631): GLib-GObject-CRITICAL **: 08:25:37.334: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1614759937399	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1614760953141	geckodriver	INFO	Listening on 127.0.0.1:53917
+1614760954145	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileq2gqWL"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libGL.so.1 missing
+[GFX1-]: glxtest: libEGL missing
+
+(/usr/lib/firefox/firefox:30442): GLib-GObject-CRITICAL **: 08:42:34.947: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:30462): GLib-GObject-CRITICAL **: 08:42:35.019: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614760956035	Marionette	INFO	Listening on port 33201
+
+(/usr/lib/firefox/firefox:30531): GLib-GObject-CRITICAL **: 08:42:36.067: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1614760956073	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614761263776	geckodriver	INFO	Listening on 127.0.0.1:35349
+1614761264781	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileeslXcc"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libGL.so.1 missing
+[GFX1-]: glxtest: libEGL missing
+
+(/usr/lib/firefox/firefox:6412): GLib-GObject-CRITICAL **: 08:47:45.607: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:6431): GLib-GObject-CRITICAL **: 08:47:45.670: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614761266839	Marionette	INFO	Listening on port 42005
+
+(/usr/lib/firefox/firefox:6499): GLib-GObject-CRITICAL **: 08:47:46.851: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1614761266912	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1614761310524	geckodriver	INFO	Listening on 127.0.0.1:55955
+1614761311528	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileChlFfx"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libGL.so.1 missing
+[GFX1-]: glxtest: libEGL missing
+
+(/usr/lib/firefox/firefox:7571): GLib-GObject-CRITICAL **: 08:48:32.271: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:7593): GLib-GObject-CRITICAL **: 08:48:32.375: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614761313526	Marionette	INFO	Listening on port 36115
+
+(/usr/lib/firefox/firefox:7711): GLib-GObject-CRITICAL **: 08:48:33.561: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1614761313567	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614762877398	Marionette	INFO	Stopped listening on port 36115
+1614763552484	geckodriver	INFO	Listening on 127.0.0.1:57231
+1614763553489	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile07sV0b"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libGL.so.1 missing
+[GFX1-]: glxtest: libEGL missing
+
+(/usr/lib/firefox/firefox:14660): GLib-GObject-CRITICAL **: 09:25:54.278: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:14704): GLib-GObject-CRITICAL **: 09:25:54.359: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614763555371	Marionette	INFO	Listening on port 41135
+
+(/usr/lib/firefox/firefox:14769): GLib-GObject-CRITICAL **: 09:25:55.400: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1614763555419	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614763867275	geckodriver	INFO	Listening on 127.0.0.1:43639
+1614763868280	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileBfviTB"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libGL.so.1 missing
+[GFX1-]: glxtest: libEGL missing
+
+(/usr/lib/firefox/firefox:16267): GLib-GObject-CRITICAL **: 09:31:09.296: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:16283): GLib-GObject-CRITICAL **: 09:31:09.377: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614763870803	Marionette	INFO	Listening on port 35465
+
+(/usr/lib/firefox/firefox:16359): GLib-GObject-CRITICAL **: 09:31:10.811: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1614763870956	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614764209362	geckodriver	INFO	Listening on 127.0.0.1:45531
+1614764210366	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile7TrPQE"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libGL.so.1 missing
+[GFX1-]: glxtest: libEGL missing
+
+(/usr/lib/firefox/firefox:18411): GLib-GObject-CRITICAL **: 09:36:51.109: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:18433): GLib-GObject-CRITICAL **: 09:36:51.189: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614764212307	Marionette	INFO	Listening on port 35397
+
+(/usr/lib/firefox/firefox:18495): GLib-GObject-CRITICAL **: 09:36:52.332: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1614764212398	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614768686416	geckodriver	INFO	Listening on 127.0.0.1:54821
+1614768687421	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilemqdbua"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libGL.so.1 missing
+[GFX1-]: glxtest: libEGL missing
+
+(/usr/lib/firefox/firefox:20094): GLib-GObject-CRITICAL **: 10:51:28.212: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:20116): GLib-GObject-CRITICAL **: 10:51:28.293: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614768689333	Marionette	INFO	Listening on port 33683
+
+(/usr/lib/firefox/firefox:20184): GLib-GObject-CRITICAL **: 10:51:29.363: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1614768689450	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614768981291	geckodriver	INFO	Listening on 127.0.0.1:54203
+1614768982296	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileUg0Rnu"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libGL.so.1 missing
+[GFX1-]: glxtest: libEGL missing
+
+(/usr/lib/firefox/firefox:22177): GLib-GObject-CRITICAL **: 10:56:23.110: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:22199): GLib-GObject-CRITICAL **: 10:56:23.187: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614768984178	Marionette	INFO	Listening on port 42643
+
+(/usr/lib/firefox/firefox:22264): GLib-GObject-CRITICAL **: 10:56:24.217: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1614768984225	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614840943823	geckodriver	INFO	Listening on 127.0.0.1:37373
+1614840944828	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileO18wRK"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libGL.so.1 missing
+[GFX1-]: glxtest: libEGL missing
+
+(/usr/lib/firefox/firefox:6768): GLib-GObject-CRITICAL **: 06:55:45.632: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:6788): GLib-GObject-CRITICAL **: 06:55:45.713: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614840946696	Marionette	INFO	Listening on port 46139
+
+(/usr/lib/firefox/firefox:6856): GLib-GObject-CRITICAL **: 06:55:46.742: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1614840946757	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614841886955	geckodriver	INFO	Listening on 127.0.0.1:37769
+1614841887960	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilemsE2Iv"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libGL.so.1 missing
+[GFX1-]: glxtest: libEGL missing
+
+(/usr/lib/firefox/firefox:16074): GLib-GObject-CRITICAL **: 07:11:28.752: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:16096): GLib-GObject-CRITICAL **: 07:11:28.833: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614841889801	Marionette	INFO	Listening on port 36117
+
+(/usr/lib/firefox/firefox:16160): GLib-GObject-CRITICAL **: 07:11:29.854: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1614841889887	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614843453929	Marionette	INFO	Stopped listening on port 36117
+1614849196193	geckodriver	INFO	Listening on 127.0.0.1:50103
+1614849197197	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile7AbPPP"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libGL.so.1 missing
+[GFX1-]: glxtest: libEGL missing
+
+(/usr/lib/firefox/firefox:8056): GLib-GObject-CRITICAL **: 09:13:18.176: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:8077): GLib-GObject-CRITICAL **: 09:13:18.274: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:8146): GLib-GObject-CRITICAL **: 09:13:19.562: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1614849199571	Marionette	INFO	Listening on port 39873
+1614849199639	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1614849890423	geckodriver	INFO	Listening on 127.0.0.1:44545
+1614849891428	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilesLNdMF"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libGL.so.1 missing
+[GFX1-]: glxtest: libEGL missing
+
+(/usr/lib/firefox/firefox:16707): GLib-GObject-CRITICAL **: 09:24:52.281: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:16729): GLib-GObject-CRITICAL **: 09:24:52.372: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:16796): GLib-GObject-CRITICAL **: 09:24:53.595: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1614849893607	Marionette	INFO	Listening on port 41489
+1614849893663	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614850566455	Marionette	INFO	Stopped listening on port 41489
+1614876357948	geckodriver	INFO	Listening on 127.0.0.1:48593
+1614876358954	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileF7TIEK"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libGL.so.1 missing
+[GFX1-]: glxtest: libEGL missing
+
+(/usr/lib/firefox/firefox:1918): GLib-GObject-CRITICAL **: 16:45:59.841: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:1940): GLib-GObject-CRITICAL **: 16:45:59.935: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:2006): GLib-GObject-CRITICAL **: 16:46:01.173: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1614876361209	Marionette	INFO	Listening on port 38769
+1614876361289	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614877032477	Marionette	INFO	Stopped listening on port 38769
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1614919409956	geckodriver	INFO	Listening on 127.0.0.1:34265
+1614919410961	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiles0chKx"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libGL.so.1 missing
+[GFX1-]: glxtest: libEGL missing
+
+(/usr/lib/firefox/firefox:24515): GLib-GObject-CRITICAL **: 04:43:31.814: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:24537): GLib-GObject-CRITICAL **: 04:43:31.912: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614919413089	Marionette	INFO	Listening on port 43543
+
+(/usr/lib/firefox/firefox:24653): GLib-GObject-CRITICAL **: 04:43:33.122: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1614919413209	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614934280342	geckodriver	INFO	Listening on 127.0.0.1:45547
+1614934281346	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilevbvsm8"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libGL.so.1 missing
+[GFX1-]: glxtest: libEGL missing
+
+(/usr/lib/firefox/firefox:27969): GLib-GObject-CRITICAL **: 08:51:22.206: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:27991): GLib-GObject-CRITICAL **: 08:51:22.315: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614934283403	Marionette	INFO	Listening on port 35081
+
+(/usr/lib/firefox/firefox:28054): GLib-GObject-CRITICAL **: 08:51:23.429: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1614934283481	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614934959694	Marionette	INFO	Stopped listening on port 35081
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.

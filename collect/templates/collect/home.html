@@ -10,25 +10,6 @@
     <label for="age" class="input-inline">Age:&nbsp;&nbsp;</label>
     <input type="text" id="age" name="age" class="input-inline"><br><br>
 
-    <label for="sex" class="input-inline">Sex: &nbsp;&nbsp;&nbsp;</label>
-    <input type="radio" id="male" name="sex" value="male" class="input-inline">
-    <label for="male" class="input-inline">Male &nbsp;&nbsp;&nbsp;</label>
-    <input type="radio" id="female" name="sex" value="female" class="input-inline">
-    <label for="female" class="input-inline">Female &nbsp;&nbsp;&nbsp;</label>
-    <input type="radio" id="other" name="sex" value="other" class="input-inline">
-    <label for="other" class="input-inline">Other &nbsp;&nbsp;&nbsp;</label> <br><br>
-
-    <label for="RBC_Count" class="input-inline">RBC_Count:&nbsp;&nbsp;</label>
-    <input type="text" id="RBC_Count" name="RBC_Count" class="input-inline"><br><br>
-    <label for="Platelets" class="input-inline">Platelets:&nbsp;&nbsp;</label>
-    <input type="text" id="Platelets" name="Platelets" class="input-inline"><br><br>
-    <label for="Neutrofils" class="input-inline">Neutrofils:&nbsp;&nbsp;</label>
-    <input type="text" id="Neutrofils" name="Neutrofils" class="input-inline"><br><br>
-    <label for="Basofils" class="input-inline">Basofils:&nbsp;&nbsp;</label>
-    <input type="text" id="Basofils" name="Basofils" class="input-inline"><br><br>
-
-    <label for="glucose" class="input-inline">Glucose:&nbsp;&nbsp;</label>
-    <input type="text" id="glucose" name="glucose" class="input-inline"><br><br>
     <label for="bloodpressure" class="input-inline">BloodPressure:&nbsp;&nbsp;</label>
     <input type="text" id="bloodpressure" name="bloodpressure" class="input-inline"><br><br>
     <label for="skinthickness" class="input-inline">SkinThickness:&nbsp;&nbsp;</label>
@@ -38,16 +19,92 @@
     <label for="bmi" class="input-inline">Bmi:&nbsp;&nbsp;</label>
     <input type="text" id="bmi" name="bmi" class="input-inline"><br><br>
 
-    <label for="max_heart_rate" class="input-inline">Maximum Heart Rate:&nbsp;&nbsp;</label>
-    <input type="text" id="max_heart_rate" name="max_heart_rate" class="input-inline"><br><br>
-    <label for="marital_status" class="input-inline">Marital_status:&nbsp;&nbsp;</label>
-    <input type="radio" id="yes" name="marital_status" value="yes" class="input-inline">
-    <label for="yes" class="input-inline">Yes&nbsp;&nbsp;&nbsp;</label>
-    <input type="radio" id="no" name="marital_status" value="no" class="input-inline">
-    <label for="no" class="input-inline">No&nbsp;&nbsp;&nbsp;</label><br><br>
-    <label for="cholestrol" class="input-inline">Cholestrol:&nbsp;&nbsp;</label>
-    <input type="text" id="cholestrol" name="cholestrol" class="input-inline"><br><br>
-
+    <label for="glucose" class="input-inline">Glucose:&nbsp;&nbsp;</label>
+    <input type="text" id="glucose" name="glucose" class="input-inline"><br><br>
+    <label for="pregnancy" class="input-inline">Pregnancy:&nbsp;&nbsp;</label>
+    <input type="text" id="pregnancy" name="pregnancy" class="input-inline"><br><br>
+    <label for="diabetes_pdf" class="input-inline">Diabetes PDF:&nbsp;&nbsp;</label>
+    <input type="text" id="diabetes_pdf" name="diabetes_pdf" class="input-inline"><br><br>
+    <label for="location" class="input-inline">District:&nbsp;&nbsp;</label>
+    <select name="location" id="location" class="input-inline">
+	    <option value="Kathmandu">	Kathmandu</option>
+	    <option value="Lalitpur">	Lalitpur</option>
+	    <option value="Morang">	Morang</option>
+	    <option value="Rupandehi">	Rupandehi</option>
+	    <option value="Bhaktapur">	Bhaktapur</option>
+	    <option value="Sunsari">	Sunsari</option>
+	    <option value="Chitwan">	Chitwan</option>
+	    <option value="Kaski">	Kaski</option>
+	    <option value="Kailali">	Kailali</option>
+	    <option value="Banke">	Banke</option>
+	    <option value="Jhapa">	Jhapa</option>
+	    <option value="Makwanpur">	Makwanpur</option>
+	    <option value="Dang">	Dang</option>
+	    <option value="Kavrepalanchowk">	Kavrepalanchowk</option>
+	    <option value="Parsa">	Parsa</option>
+	    <option value="Parasi">	Parasi</option>
+	    <option value="Dhanusa">	Dhanusa</option>
+	    <option value="Surkhet">	Surkhet</option>
+	    <option value="Sarlahi">	Sarlahi</option>
+	    <option value="Rautahat">	Rautahat</option>
+	    <option value="Palpa">	Palpa</option>
+	    <option value="Kapilvastu">	Kapilvastu</option>
+	    <option value="Siraha">	Siraha</option>
+	    <option value="Bara">	Bara</option>
+	    <option value="Saptari">	Saptari</option>
+	    <option value="Mahottari">	Mahottari</option>
+	    <option value="Bardiya">	Bardiya</option>
+	    <option value="Kanchanpur">	Kanchanpur</option>
+	    <option value="Tanahu">	Tanahu</option>
+	    <option value="Dhading">	Dhading</option>
+	    <option value="Achham">	Achham</option>
+	    <option value="Dailekh">	Dailekh</option>
+	    <option value="Nawalpur">	Nawalpur</option>
+	    <option value="Nuwakot">	Nuwakot</option>
+	    <option value="Gorkha">	Gorkha</option>
+	    <option value="Doti">	Doti</option>
+	    <option value="Baglung">	Baglung</option>
+	    <option value="Gulmi">	Gulmi</option>
+	    <option value="Syangja">	Syangja</option>
+	    <option value="Lamjung">	Lamjung</option>
+	    <option value="Bajhang">	Bajhang</option>
+	    <option value="Pyuthan">	Pyuthan</option>
+	    <option value="Arghakhanchi">	Arghakhanchi</option>
+	    <option value="Sindhupalchok">	Sindhupalchok</option>
+	    <option value="Dolakha">	Dolakha</option>
+	    <option value="Dadeldhura">	Dadeldhura</option>
+	    <option value="Baitadi">	Baitadi</option>
+	    <option value="Bajura">	Bajura</option>
+	    <option value="Udayapur">	Udayapur</option>
+	    <option value="Salyan">	Salyan</option>
+	    <option value="Sindhuli">	Sindhuli</option>
+	    <option value="Ramechhap">	Ramechhap</option>
+	    <option value="Parbat">	Parbat</option>
+	    <option value="Jumla">	Jumla</option>
+	    <option value="Ilam">	Ilam</option>
+	    <option value="Darchula">	Darchula</option>
+	    <option value="Sankhuwasabha">	Sankhuwasabha</option>
+	    <option value="Rolpa">	Rolpa</option>
+	    <option value="Myagdi">	Myagdi</option>
+	    <option value="Kalikot">	Kalikot</option>
+	    <option value="Dhankuta">	Dhankuta</option>
+	    <option value="Okhaldhunga">	Okhaldhunga</option>
+	    <option value="Western Rukum">	Western Rukum</option>
+	    <option value="Rasuwa">	Rasuwa</option>
+	    <option value="Khotang">	Khotang</option>
+	    <option value="Solukhumbu">	Solukhumbu</option>
+	    <option value="Panchthar">	Panchthar</option>
+	    <option value="Bhojpur">	Bhojpur</option>
+	    <option value="Taplejung">	Taplejung</option>
+	    <option value="Tehrathum">	Tehrathum</option>
+	    <option value="Jajarkot">	Jajarkot</option>
+	    <option value="Eastern Rukum">	Eastern Rukum</option>
+	    <option value="Dolpa">	Dolpa</option>
+	    <option value="Mustang">	Mustang</option>
+	    <option value="Humla">	Humla</option>
+	    <option value="Mugu">	Mugu</option>
+	    <option value="Manang">	Manang</option>
+    </select>
 
     <input id="submitButton" type="submit" value="Submit">
 

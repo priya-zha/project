@@ -2,6 +2,7 @@ import requests
 import random
 import string
 from selenium import webdriver
+from selenium.webdriver import FirefoxOptions
 from selenium.webdriver.common.keys import Keys
 # 1from pykafka import KafkaClient
 
@@ -13,7 +14,9 @@ from json import JSONEncoder
 # 2client = KafkaClient(hosts="127.0.0.1:9092")
 #t  # 3opic = client.topics['hospital']
 # 4producer = topic.get_sync_producer()
-driver = webdriver.Firefox()
+opts = FirefoxOptions()
+opts.add_argument("--headless")
+driver = webdriver.Firefox(firefox_options=opts)
 
 url = "http://127.0.0.1:8000"
 driver.get(url)
@@ -140,7 +143,7 @@ for i in range(300):
 # for e in range(1000):
     #data = {'number' : e,'any' :1}
     data = {'name': name,'age':age,'sex':sex_condition,'RBC_Count':RBC_Count,'Platelets':Platelets,'Neutrofils':Neutrofils,'Basofils':Basofils,'glucose':glucose,'bloodpressure':bloodpressure,'skinthickness':skinthickness}
-    producer.send('hospital', value=data)
+    producer.send('diabetes', value=data)
     sleep(5)
 
     name_box.send_keys(name)
